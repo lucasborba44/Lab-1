@@ -1,9 +1,8 @@
-
 package helloworld;
 
 /**
  *
- * @author Lucas
+ * @author Lucas Borba
  */
 public class HelloWorld {
 
